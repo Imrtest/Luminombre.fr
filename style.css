@@ -1,0 +1,30 @@
+nav ul li.btn a{
+    text-decoration: none;
+    padding: 20px;
+    align-items: center;
+}
+
+
+nav ul li.btn{
+    font-size: xx-large;
+    text-align: center;
+    background-color: blue; 
+}
+
+
+h1.forti{
+    text-align: center;
+}
+
+body{    
+    background: radial-gradient(#2812F3, #1EF3F3, #EB1616, #2CF31E, #F3F31E);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
